@@ -6,10 +6,6 @@
   Created 3 different web pages from Wireframe layout using HTML and CSS
 Utilized Bootstrap extensively for responsive design</p>
 
-![](https://github.com/Krishna11118/QTripStatic/blob/main/examples/QTripStatic_Gif.gif)
-
-
-👉 Live Demo: <a href='https://krishna-qtrip.netlify.app/'>Live Demo</a>
 
 
 List of frameworks/libraries/languages that were used to built this project .
@@ -18,30 +14,6 @@ List of frameworks/libraries/languages that were used to built this project .
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![Css][Css.com]][Css-url]
 * [![Html][Html.com]][Html-url]
-
-
-<h2>Screenshots</h2>
-<br>
-<h3>Landing Page </h3>
-<div align='center'>
-<img src='https://github.com/Krishna11118/QTripStatic/blob/main/examples/Qtrip_Static_1.png'/>
-</div>
-
-<h3>Adventure Page </h3>
-<div align='center'>
-<img src='https://github.com/Krishna11118/QTripStatic/blob/main/examples/Qtrip_Static_2.png'/>
-</div>
-
-<h3>Adventure Detailed Page </h3>
-<div align='center'>
-<img src='https://github.com/Krishna11118/QTripStatic/blob/main/examples/Qtrip_Static_3.png'/>
-</div>
-
-
-
-<h2>Contact</h2>
-
-Krishna -  [@Whatsapp](https://wa.me/+917318378893) - krishnassss365@gmail.com - [@LinkedIn](https://www.linkedin.com/in/krishna365/)
 
 
 
